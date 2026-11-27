@@ -1,0 +1,1 @@
+On Matchday, open Tactics notebook. Select a pattern, then tap Pass 1, 2 or 3. Return to Matchday, add a fixture and open it to record goals and cards. No account or API key is required. OpenFootball and a personal RSS feed use the network only for their online content. Devices store the matchbook locally. Notifications and kickoff Live Activities are optional.

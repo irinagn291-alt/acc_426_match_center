@@ -1,0 +1,33 @@
+{
+  "version": "2def537b555e49149c9cf5ac11a8aef8",
+  "locales": [
+    "en-GB",
+    "en-US",
+    "zh-Hant",
+    "ar-SA"
+  ],
+  "files": {
+    "metadata/review_information/notes.txt": "e3535be30418cef5b189555f7ab3b71c5b12a2dc0be61adf801006a00023dba9",
+    "metadata/primary_category.txt": "881a1508ecd8fc4005ba5208f42b37baaef30c4aef981cf828ebb92359874577",
+    "metadata/en-GB/subtitle.txt": "65d0b4a0f4fc360e473e7f9707775e4c65a8a7d179046f5875fc8257bbe40833",
+    "metadata/en-GB/description.txt": "2513c9905d0890de12f4f6d3b6e9b5723cf434239eba24b15c39f82cb875d108",
+    "metadata/en-GB/keywords.txt": "ade4735a490b3562153fd190d9d284f818f156c0ed0b016822d1912a1b13ea7b",
+    "metadata/en-GB/promotional_text.txt": "cba6d5b377bab94143409bcbb4fa6bdfac3facb2a83dbdda583e87843a16addc",
+    "metadata/en-GB/release_notes.txt": "e6fba527591467975bdc13f068befdd1088e2b831c045c0795335a074fe72f28",
+    "metadata/en-US/subtitle.txt": "65d0b4a0f4fc360e473e7f9707775e4c65a8a7d179046f5875fc8257bbe40833",
+    "metadata/en-US/description.txt": "29ae2cd3faafdcaaf13b5bb0ce091666682d573124349c07ee221dc3439f7ed0",
+    "metadata/en-US/keywords.txt": "d78c6b7ca92a7af052d731b45c49dfb41e4e8cd05b91bf23b0d79cda6d8063d8",
+    "metadata/en-US/promotional_text.txt": "cba6d5b377bab94143409bcbb4fa6bdfac3facb2a83dbdda583e87843a16addc",
+    "metadata/en-US/release_notes.txt": "e6fba527591467975bdc13f068befdd1088e2b831c045c0795335a074fe72f28",
+    "metadata/zh-Hant/subtitle.txt": "855c9e04d11853c79751227f77e3ef16d5ca5b20b565e47b976df0458085fd40",
+    "metadata/zh-Hant/description.txt": "adce2482555d231adc2c8b2c3e53116ac1b22b06d93f9ad3891ac9e8bf8e7a1b",
+    "metadata/zh-Hant/keywords.txt": "9dc0e8662454f6efbba382c64affd816307f88b82d8a28fd75c02cbff6761cf9",
+    "metadata/zh-Hant/promotional_text.txt": "cae1ec54dab64876e3d1706d08cc2683b4e4955a33bf26146fff7b4af9daa03c",
+    "metadata/zh-Hant/release_notes.txt": "49da54cb32fcebdd3e8df9655e9f6bd405f52b0c26e6f3fe203213183901ec83",
+    "metadata/ar-SA/subtitle.txt": "74dfdd54ace1d49c4b29e8a3da73149878fa6f975f17e439d660671858617ddc",
+    "metadata/ar-SA/description.txt": "17c2b46f4f36b10eee3cf92070a20d0eb414182dfe473cacafc67006256ba3e8",
+    "metadata/ar-SA/keywords.txt": "c1f79a924f3201e07b72d156fcf271e3180c6d93a7860a0895836d9d2a7b1667",
+    "metadata/ar-SA/promotional_text.txt": "571e53e5b7002294c4b7aa8757f2423dd828e999851e50630dfa780b839a8700",
+    "metadata/ar-SA/release_notes.txt": "061f1e66cee54d37e27c4f4a8549ffb1e927d221c8293e01ae0b5892dd5babbc"
+  }
+}

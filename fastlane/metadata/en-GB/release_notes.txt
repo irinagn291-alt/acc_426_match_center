@@ -1,0 +1,1 @@
+Introduces an offline tactics notebook with six formations and eighteen illustrated passing phases. Adds Arabic and Traditional Chinese interfaces.

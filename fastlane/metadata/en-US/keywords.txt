@@ -1,0 +1,1 @@
+soccer,fixtures,tactics,scorekeeper,match diary,standings,formation,coaching,calendar

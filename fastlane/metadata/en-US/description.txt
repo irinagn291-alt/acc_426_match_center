@@ -1,0 +1,5 @@
+Keep a matchbook for your club. Create a fixture, record goals, cards and substitutions, then follow the match timeline. Completed games build your local league table with points and goal difference.
+
+Open the tactics notebook to study six passing patterns, from switches of play to third-player runs. Each shape has eleven players and three passes you can explore on the pitch. The notebook and your local match records work offline.
+
+Browse your calendar, save favorite teams and share a matchbook file. Refresh published fixtures from OpenFootball when you have a connection. Optional widgets, kickoff countdowns and reminders use saved match data.
